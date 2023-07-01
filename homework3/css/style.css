@@ -1,0 +1,278 @@
+.b1 {padding: 54px 52px;
+}
+.b2 {padding: 63px 41px;
+}
+.b3{padding-top: 41px;
+	padding-left: 92px;
+	padding-bottom: 31px;
+}
+a {text-decoration: none;
+}
+nav {display: inline-block;
+vertical-align: middle;
+}
+.logo {vertical-align: middle;
+margin-right: 60px;
+}
+li {display: inline-block;
+margin-right: 87px;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+color: #8D81FF;
+}
+.main {color: #4E6FAE;
+}
+.news {color: #4E6FAE;
+}
+.contacts{color: #4E6FAE;
+}
+.box {margin-top: 52px;
+width: 50px;
+height: 50px;
+background-color:#5012D5;
+color:#84FF81;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+padding:8px 8px 8px 12px;
+}
+h2 {
+margin-top: 14px;
+margin-bottom: 14px;
+width: 70px;
+height: 34px;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: #8D81FF;
+}
+h3 {
+margin-top: 14px;
+margin-bottom: 14px;
+width: 578px;
+height: 34px;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+color: #4E6FAE;
+}
+.p1{
+margin-right: 66px;
+margin-bottom: 32px;
+}
+.s1 {display: inline-block;
+vertical-align: top;
+width: 778px;
+height: 281px;
+}
+p {
+font-size: 16px;
+line-height: 19px;
+color: #4E6FAE;
+}
+.a1{font-size: 16px;
+line-height: 19px;
+color: #4E6FAE;
+margin-bottom: 16px;
+}
+.s2 {
+width: 1021px;
+height: 148px;
+}
+.f1 {
+margin-top: 145px;
+margin-bottom: 285px
+}
+#line {margin:0px 41px;}
+.f2{
+	margin: 0px 0px 194px 194px;
+}
+.phtml {margin: 85px 0px 120px;
+}
+#sector2 {
+margin: 0px 194px;
+}
+.n1 {display: inline-block;
+	vertical-align: middle;
+width: 150px;
+height: 34px;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+color: #4E6FAE;
+}
+.n2 {margin: 0px 18px;
+display: inline-block;
+vertical-align: middle;
+}
+.n3 {display: inline-block;
+	vertical-align: middle;
+width: 484px;
+height: 34px;
+font-weight: 400;
+font-size: 26px;
+line-height: 31px;
+color: #4E6FAE;
+}
+.d2{
+margin-bottom: 91px;
+position: absolute;
+width: 500px;
+height: 192px;
+background: #E7E7E7;
+}
+.ba1{
+margin-top: 21px;
+margin-bottom: 20px;
+margin-left:23px;
+width: 307px;
+height: 24px;
+font-size: 20px;
+line-height: 24px;
+color: #3F4145;
+}
+.ba2{ margin:0px 36px;
+}
+.ba3{
+display: inline-block;
+width: 335px;
+height: 95px;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+color: #7E8898;
+}
+.d3{
+margin-left: 552px;
+position: absolute;
+width: 500px;
+height: 192px;
+background: #E7E7E7;
+}
+.ba4{
+margin-top: 21px;
+margin-bottom: 15px;
+margin-left: 29px;
+width: 307px;
+height: 24px;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+color: #3F4145;
+}
+.bag2 {
+	margin-right: 21px;
+	margin-left: 38px;
+	margin-bottom: 35px;
+}
+.ba6{
+vertical-align: top;
+display: inline-block;
+width: 335px;
+height: 95px;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+color: #7E8898;
+}
+.f3{display: block;
+	margin-top: 309px;
+	margin-bottom: 194px;
+	margin-left: 194px;
+ }
+#db1 {position: absolute;
+width: 1660px;
+height: 735px;
+background: #E7E7E7;}
+.f0 {
+margin: 93px 40px 27px 162px;
+position: absolute;
+width: 474px;
+height: 34px;
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+color: #4E6FAE;
+}
+iframe{
+margin: 94px;
+margin-left: 676px;
+margin-right: 40px;
+width: 944px;
+height: 549px;
+}
+.fh4 {display: ;
+}
+.fh5{
+}
+.lt1{
+position: absolute;
+margin-left: 162px;
+margin-top: 154px;
+width: 307px;
+height: 24px;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+color: #7E8898;
+}
+.lt2{margin-top: 154px;
+margin-left: 274px;
+position: absolute;
+width: 307px;
+height: 24px;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+color: #3F4145;
+}
+.lt3{position: absolute;
+margin-left: 162px;
+margin-top: 201px;
+width: 307px;
+height: 24px;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+color: #7E8898;
+}
+.lt4{
+margin-top: 201px;
+margin-left: 220px;
+position: absolute;
+width: 307px;
+height: 24px;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+color: #3F4145;
+}
+.lt5 {
+position: absolute;
+margin-left: 162px;
+margin-top: 246px;
+width: 307px;
+height: 24px;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+color: #7E8898;
+}
+.lt6{
+margin-top: 246px;
+margin-left: 274px;
+position: absolute;
+width: 307px;
+height: 24px;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+color: #3F4145;
+}
+.fk1{
+margin-top: 969px;
+margin-left: 96px;
+margin-bottom: 180px;
+}
